@@ -135,6 +135,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+JacobKhaykin_env/
 .env
 .envrc
 .venv
